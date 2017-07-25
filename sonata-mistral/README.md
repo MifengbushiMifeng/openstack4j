@@ -11,5 +11,5 @@ No support will be available for this version.
 
 ### Contact
 For any questions please contact:
-* sharon.mendel@nokia.com
+* guy.paz@nokia.com
 * moshe.elisha@nokia.com
